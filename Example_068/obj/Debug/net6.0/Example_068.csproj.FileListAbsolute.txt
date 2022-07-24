@@ -1,0 +1,15 @@
+F:\Домашка\Practiva_C#_009\Example_068\bin\Debug\net6.0\Example_068.exe
+F:\Домашка\Practiva_C#_009\Example_068\bin\Debug\net6.0\Example_068.deps.json
+F:\Домашка\Practiva_C#_009\Example_068\bin\Debug\net6.0\Example_068.runtimeconfig.json
+F:\Домашка\Practiva_C#_009\Example_068\bin\Debug\net6.0\Example_068.dll
+F:\Домашка\Practiva_C#_009\Example_068\bin\Debug\net6.0\Example_068.pdb
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.csproj.AssemblyReference.cache
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.GeneratedMSBuildEditorConfig.editorconfig
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.AssemblyInfoInputs.cache
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.AssemblyInfo.cs
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.csproj.CoreCompileInputs.cache
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.dll
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\refint\Example_068.dll
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.pdb
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\Example_068.genruntimeconfig.cache
+F:\Домашка\Practiva_C#_009\Example_068\obj\Debug\net6.0\ref\Example_068.dll
